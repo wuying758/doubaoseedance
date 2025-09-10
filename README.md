@@ -21,14 +21,6 @@ doubaoance/
 └── readme.md          # 项目说明文档
 ```
 
-## 安装依赖
-
-```bash
-pip install volcenginesdkarkruntime
-pip install opencv-python
-pip install tqdm
-pip install requests
-```
 
 ## 使用方法
 
