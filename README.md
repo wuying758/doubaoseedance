@@ -34,7 +34,7 @@ python doubaoance.py
 
 | 参数 | 简写 | 类型 | 默认值 | 说明 |
 |------|------|------|--------|------|
-| `--api_key` | `-a` | str | 7d55967c-94d4-4f3d-bd67-61a2d675cf18 | 豆包API密钥 |
+| `--api_key` | `-a` | str || 豆包API密钥 |
 | `--save_path` | `-p` | str | ./outputs/ | 结果保存路径 |
 | `--base_url` | `-u` | str | https://ark.cn-beijing.volces.com/api/v3 | API基础URL |
 | `--prompt` | `-r` | str | None | 视频生成提示词 |
